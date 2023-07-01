@@ -1,0 +1,54 @@
+/**
+ * @name Lecool Thème 2
+ * @author lecooldu974
+ * @version 1.1.0
+ * @description LE second thème développé par Lecooldu974 un peu plus chill et apaisant pour les yeux 😅 !
+ * @source https://github.com/Lecooldu974/lecooldu974theme
+ * @invite KpmseCatPG
+ * @website https://lecooldu974.wixsite.com/lecooldu974
+ * @authorId 794567601673338890
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/Wswocxs.png');
+  --background-image-blur: 2px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://i.imgur.com/3mXMeOq.jpg');
+  --popout-image-blur: 0px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.imgur.com/3mXMeOq.jpg');
+  --overlay-image-blur: 0px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/3XKjDGD.png');
+  --home-button-size: contain;
+  --home-button-position: center;
+  --serverlist-brightness: 0.78;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.24;
+  --right-brightness: 0.56;
+  --overlay-brightness: 0.42;
+  --gradient-primary: 103,58,183;
+  --gradient-secondary: 199,0,255;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgb(255,255,255,0.05);
+  --gradient-direction: 320deg;
+  --tint-colour: 0,0,0;
+  --tint-brightness: 0;
+  --font: Righteous;
+  --window-padding: 12px;
+  --window-roundness: 14px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
